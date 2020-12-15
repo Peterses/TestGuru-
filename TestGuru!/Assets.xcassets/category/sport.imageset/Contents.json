@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Zrzut ekranu 2020-11-4 o 15.40.48.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

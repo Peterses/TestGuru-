@@ -12,6 +12,8 @@ According to the design assumptions application allows:
 
 ## Demo
 
+Click below image to see demantration video of application
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J2I0MICD6Mc/0.jpg)](https://www.youtube.com/watch?v=J2I0MICD6Mc)
 
 ### Technologies used

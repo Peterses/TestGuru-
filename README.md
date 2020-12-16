@@ -12,7 +12,7 @@ According to the design assumptions application allows:
 
 ## Demo
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=J2I0MICD6Mc&feature=youtu.be)
 
 ### Technologies used
 
